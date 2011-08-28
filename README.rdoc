@@ -1,3 +1,5 @@
+Sorry,i'm no longer update the plugin,please use the fork :https://github.com/springbok/jqgrid-rails3
+
 = a plugin base on 2dcJqgrid for rails3 to use jqgrid
 
 This Rails plugin allows you to add jQuery datagrids into your applications.
